@@ -1,0 +1,419 @@
+2015-06-17 15:10:25,333 INFO  [Log] *************************** 
+2015-06-17 15:10:25,334 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-17 15:10:29,606 INFO  [Log] start the webdriver :CHROME 
+2015-06-17 15:10:46,496 INFO  [Log] *************************** 
+2015-06-17 15:10:46,496 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-17 15:10:59,674 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-17 15:11:05,684 INFO  [Log] Termino la ejecucion del test 
+2015-06-17 15:11:05,684 INFO  [Log] ********************************** 
+2015-06-17 15:11:05,684 INFO  [Log] ********************VerifyThatClickButtonGoogle************* 
+2015-06-17 15:11:05,684 INFO  [Log] *******end test case*************** 
+2015-06-17 15:16:27,011 INFO  [Log] *************************** 
+2015-06-17 15:16:27,012 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-17 15:16:30,646 INFO  [Log] start the webdriver :CHROME 
+2015-06-17 15:16:39,696 INFO  [Log] *************************** 
+2015-06-17 15:16:39,696 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-17 15:16:51,668 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-17 15:17:05,331 INFO  [Log] Termino la ejecucion del test 
+2015-06-17 15:17:05,332 INFO  [Log] ********************************** 
+2015-06-17 15:17:05,332 INFO  [Log] ********************VerifyThatClickButtonGoogle************* 
+2015-06-17 15:17:05,332 INFO  [Log] *******end test case*************** 
+2015-06-19 16:33:45,746 INFO  [Log] *************************** 
+2015-06-19 16:33:45,762 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:33:46,066 INFO  [Log] Excel sheet opened 
+2015-06-19 16:33:46,076 ERROR [Log]  Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2015-06-19 16:33:46,107 INFO  [Log] *************************** 
+2015-06-19 16:33:46,107 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:33:46,303 INFO  [Log] Excel sheet opened 
+2015-06-19 16:33:46,304 ERROR [Log]  Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2015-06-19 16:34:20,103 INFO  [Log] *************************** 
+2015-06-19 16:34:20,105 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:34:20,443 INFO  [Log] Excel sheet opened 
+2015-06-19 16:34:20,455 ERROR [Log]  Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2015-06-19 16:34:20,492 INFO  [Log] *************************** 
+2015-06-19 16:34:20,492 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:34:20,687 INFO  [Log] Excel sheet opened 
+2015-06-19 16:34:20,688 ERROR [Log]  Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2015-06-19 16:36:14,363 INFO  [Log] *************************** 
+2015-06-19 16:36:14,365 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:36:14,645 INFO  [Log] Excel sheet opened 
+2015-06-19 16:36:14,654 ERROR [Log]  Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2015-06-19 16:36:14,690 INFO  [Log] *************************** 
+2015-06-19 16:36:14,690 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:36:14,889 INFO  [Log] Excel sheet opened 
+2015-06-19 16:36:14,890 ERROR [Log]  Method takeScreenshot | Exception occured while capturing ScreenShot : null 
+2015-06-19 16:38:45,065 INFO  [Log] *************************** 
+2015-06-19 16:38:45,066 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:38:56,811 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 16:39:16,136 INFO  [Log] *************************** 
+2015-06-19 16:39:16,136 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:40:05,957 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 16:40:33,175 INFO  [Log] Termino la ejecucion del test 
+2015-06-19 16:40:33,176 INFO  [Log] ********************************** 
+2015-06-19 16:40:33,176 INFO  [Log] ********************VerifyThatClickButtonGoogle************* 
+2015-06-19 16:40:33,176 INFO  [Log] *******end test case*************** 
+2015-06-19 16:40:36,138 INFO  [Log] *************************** 
+2015-06-19 16:40:36,139 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:40:40,384 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 16:40:55,523 INFO  [Log] *************************** 
+2015-06-19 16:40:55,523 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:41:10,787 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 16:41:17,188 INFO  [Log] Termino la ejecucion del test 
+2015-06-19 16:41:17,188 INFO  [Log] ********************************** 
+2015-06-19 16:41:17,188 INFO  [Log] ********************VerifyThatClickButtonGoogle************* 
+2015-06-19 16:41:17,189 INFO  [Log] *******end test case*************** 
+2015-06-19 16:42:12,387 INFO  [Log] *************************** 
+2015-06-19 16:42:12,388 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:42:16,516 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 16:42:30,331 INFO  [Log] *************************** 
+2015-06-19 16:42:30,331 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:42:44,214 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 16:42:51,171 INFO  [Log] Termino la ejecucion del test 
+2015-06-19 16:42:51,171 INFO  [Log] ********************************** 
+2015-06-19 16:42:51,171 INFO  [Log] ********************VerifyThatClickButtonGoogle************* 
+2015-06-19 16:42:51,171 INFO  [Log] *******end test case*************** 
+2015-06-19 16:45:01,258 INFO  [Log] *************************** 
+2015-06-19 16:45:01,259 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:45:05,264 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 16:45:22,363 INFO  [Log] *************************** 
+2015-06-19 16:45:22,363 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:45:44,761 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 16:45:51,333 INFO  [Log] Termino la ejecucion del test 
+2015-06-19 16:45:51,333 INFO  [Log] ********************************** 
+2015-06-19 16:45:51,333 INFO  [Log] ********************VerifyThatClickButtonGoogle************* 
+2015-06-19 16:45:51,333 INFO  [Log] *******end test case*************** 
+2015-06-19 16:48:12,645 INFO  [Log] *************************** 
+2015-06-19 16:48:12,646 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:48:16,468 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 16:48:27,840 INFO  [Log] *************************** 
+2015-06-19 16:48:27,841 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:48:39,988 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 16:49:05,407 INFO  [Log] Termino la ejecucion del test 
+2015-06-19 16:49:05,408 INFO  [Log] ********************************** 
+2015-06-19 16:49:05,408 INFO  [Log] ********************VerifyThatClickButtonGoogle************* 
+2015-06-19 16:49:05,408 INFO  [Log] *******end test case*************** 
+2015-06-19 16:49:46,357 INFO  [Log] *************************** 
+2015-06-19 16:49:46,358 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:49:49,898 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 16:50:01,759 INFO  [Log] *************************** 
+2015-06-19 16:50:01,759 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-19 16:50:13,391 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 16:50:24,234 INFO  [Log] Termino la ejecucion del test 
+2015-06-19 16:50:24,234 INFO  [Log] ********************************** 
+2015-06-19 16:50:24,234 INFO  [Log] ********************VerifyThatClickButtonGoogle************* 
+2015-06-19 16:50:24,234 INFO  [Log] *******end test case*************** 
+2015-06-19 17:59:33,001 INFO  [Log] *************************** 
+2015-06-19 17:59:33,001 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:00:26,033 INFO  [Log] *************************** 
+2015-06-19 18:00:26,035 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:00:27,787 INFO  [Log] Excel sheet opened 
+2015-06-19 18:00:31,664 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:00:45,388 INFO  [Log] Excel sheet opened 
+2015-06-19 18:00:58,277 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 18:01:03,311 INFO  [Log] Excel sheet opened 
+2015-06-19 18:02:47,517 INFO  [Log] *************************** 
+2015-06-19 18:02:47,519 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:02:49,319 INFO  [Log] Excel sheet opened 
+2015-06-19 18:02:53,152 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:03:11,659 INFO  [Log] Excel sheet opened 
+2015-06-19 18:03:22,402 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 18:03:29,946 INFO  [Log] Excel sheet opened 
+2015-06-19 18:04:21,118 INFO  [Log] *************************** 
+2015-06-19 18:04:21,120 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:04:23,187 INFO  [Log] Excel sheet opened 
+2015-06-19 18:04:27,402 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:09:55,599 INFO  [Log] *************************** 
+2015-06-19 18:09:55,603 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:09:57,773 INFO  [Log] Excel sheet opened 
+2015-06-19 18:10:02,985 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:10:20,021 INFO  [Log] Excel sheet opened 
+2015-06-19 18:10:35,713 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 18:10:41,802 INFO  [Log] Excel sheet opened 
+2015-06-19 18:21:25,321 INFO  [Log] *************************** 
+2015-06-19 18:21:25,323 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:21:27,455 INFO  [Log] Excel sheet opened 
+2015-06-19 18:21:32,259 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:21:45,038 INFO  [Log] Excel sheet opened 
+2015-06-19 18:21:59,381 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 18:22:05,903 INFO  [Log] Excel sheet opened 
+2015-06-19 18:23:43,733 INFO  [Log] *************************** 
+2015-06-19 18:23:43,735 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:23:45,825 INFO  [Log] Excel sheet opened 
+2015-06-19 18:23:51,057 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:24:38,975 INFO  [Log] Excel sheet opened 
+2015-06-19 18:24:56,238 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 18:25:02,191 INFO  [Log] Excel sheet opened 
+2015-06-19 18:26:29,836 INFO  [Log] *************************** 
+2015-06-19 18:26:29,838 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:26:31,998 INFO  [Log] Excel sheet opened 
+2015-06-19 18:26:36,994 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:26:56,138 INFO  [Log] Excel sheet opened 
+2015-06-19 18:27:11,758 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 18:27:16,892 INFO  [Log] Excel sheet opened 
+2015-06-19 18:28:16,662 INFO  [Log] *************************** 
+2015-06-19 18:28:16,662 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:28:18,596 INFO  [Log] Excel sheet opened 
+2015-06-19 18:28:23,467 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:28:32,605 INFO  [Log] Excel sheet opened 
+2015-06-19 18:28:46,446 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 18:28:52,456 INFO  [Log] Excel sheet opened 
+2015-06-19 18:29:04,958 INFO  [Log] *************************** 
+2015-06-19 18:29:04,962 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:29:07,002 INFO  [Log] Excel sheet opened 
+2015-06-19 18:29:11,633 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:29:19,827 INFO  [Log] Excel sheet opened 
+2015-06-19 18:29:33,251 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 18:29:38,905 INFO  [Log] Excel sheet opened 
+2015-06-19 18:29:57,226 INFO  [Log] *************************** 
+2015-06-19 18:29:57,228 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:29:59,024 INFO  [Log] Excel sheet opened 
+2015-06-19 18:30:03,789 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:31:23,258 INFO  [Log] *************************** 
+2015-06-19 18:31:23,406 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:31:25,889 INFO  [Log] Excel sheet opened 
+2015-06-19 18:31:29,222 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:33:11,802 INFO  [Log] *************************** 
+2015-06-19 18:33:11,804 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:33:13,832 INFO  [Log] Excel sheet opened 
+2015-06-19 18:33:19,588 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:34:04,741 INFO  [Log] *************************** 
+2015-06-19 18:34:04,743 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:34:07,145 INFO  [Log] Excel sheet opened 
+2015-06-19 18:34:12,690 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:37:25,020 INFO  [Log] *************************** 
+2015-06-19 18:37:25,022 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:37:26,852 INFO  [Log] Excel sheet opened 
+2015-06-19 18:37:31,352 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:53:31,766 INFO  [Log] *************************** 
+2015-06-19 18:53:31,767 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:53:34,011 INFO  [Log] Excel sheet opened 
+2015-06-19 18:53:38,753 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:53:48,883 INFO  [Log] Excel sheet opened 
+2015-06-19 18:54:02,939 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 18:54:10,362 INFO  [Log] Excel sheet opened 
+2015-06-19 18:55:51,854 INFO  [Log] *************************** 
+2015-06-19 18:55:51,856 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:55:54,157 INFO  [Log] Excel sheet opened 
+2015-06-19 18:55:58,983 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:56:09,515 INFO  [Log] Excel sheet opened 
+2015-06-19 18:56:23,488 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 18:56:29,722 INFO  [Log] Excel sheet opened 
+2015-06-19 18:57:47,278 INFO  [Log] *************************** 
+2015-06-19 18:57:47,279 INFO  [Log] ***********TestRead*********** 
+2015-06-19 18:57:49,362 INFO  [Log] Excel sheet opened 
+2015-06-19 18:57:54,308 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 18:58:02,368 INFO  [Log] Excel sheet opened 
+2015-06-19 19:01:02,535 INFO  [Log] *************************** 
+2015-06-19 19:01:02,537 INFO  [Log] ***********TestRead*********** 
+2015-06-19 19:01:04,369 INFO  [Log] Excel sheet opened 
+2015-06-19 19:01:08,997 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 19:01:18,724 INFO  [Log] Excel sheet opened 
+2015-06-19 19:01:33,564 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 19:01:39,517 INFO  [Log] Excel sheet opened 
+2015-06-19 19:03:09,158 INFO  [Log] *************************** 
+2015-06-19 19:03:09,160 INFO  [Log] ***********TestRead*********** 
+2015-06-19 19:03:10,847 INFO  [Log] Excel sheet opened 
+2015-06-19 19:03:15,154 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 19:03:24,395 INFO  [Log] Excel sheet opened 
+2015-06-19 19:03:38,284 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 19:03:44,355 INFO  [Log] Excel sheet opened 
+2015-06-19 19:04:31,595 INFO  [Log] *************************** 
+2015-06-19 19:04:31,596 INFO  [Log] ***********TestRead*********** 
+2015-06-19 19:04:33,636 INFO  [Log] Excel sheet opened 
+2015-06-19 19:04:38,085 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 19:04:48,328 INFO  [Log] Excel sheet opened 
+2015-06-19 19:05:01,608 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 19:05:07,429 INFO  [Log] Excel sheet opened 
+2015-06-19 19:06:21,086 INFO  [Log] *************************** 
+2015-06-19 19:06:21,088 INFO  [Log] ***********TestRead*********** 
+2015-06-19 19:06:23,292 INFO  [Log] Excel sheet opened 
+2015-06-19 19:06:27,863 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 19:06:37,134 INFO  [Log] Excel sheet opened 
+2015-06-19 19:06:51,848 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 19:06:57,347 INFO  [Log] Excel sheet opened 
+2015-06-19 19:08:26,136 INFO  [Log] *************************** 
+2015-06-19 19:08:26,138 INFO  [Log] ***********TestRead*********** 
+2015-06-19 19:08:28,336 INFO  [Log] Excel sheet opened 
+2015-06-19 19:08:33,240 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 19:08:42,721 INFO  [Log] Excel sheet opened 
+2015-06-19 19:08:57,474 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 19:09:03,007 INFO  [Log] Excel sheet opened 
+2015-06-19 19:16:28,590 INFO  [Log] *************************** 
+2015-06-19 19:16:28,591 INFO  [Log] ***********TestRead*********** 
+2015-06-19 19:16:30,769 INFO  [Log] Excel sheet opened 
+2015-06-19 19:16:35,517 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 19:16:46,697 INFO  [Log] Excel sheet opened 
+2015-06-19 19:17:01,131 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 19:17:07,401 INFO  [Log] Excel sheet opened 
+2015-06-19 19:18:55,341 INFO  [Log] *************************** 
+2015-06-19 19:18:55,343 INFO  [Log] ***********TestRead*********** 
+2015-06-19 19:18:57,622 INFO  [Log] Excel sheet opened 
+2015-06-19 19:19:02,162 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 19:19:13,448 INFO  [Log] Excel sheet opened 
+2015-06-19 19:19:28,088 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 19:19:35,341 INFO  [Log] Excel sheet opened 
+2015-06-19 19:24:07,500 INFO  [Log] *************************** 
+2015-06-19 19:24:07,501 INFO  [Log] ***********TestRead*********** 
+2015-06-19 19:24:09,600 INFO  [Log] Excel sheet opened 
+2015-06-19 19:24:14,343 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 19:24:23,713 INFO  [Log] Excel sheet opened 
+2015-06-19 19:24:38,314 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 19:24:43,597 INFO  [Log] Excel sheet opened 
+2015-06-19 19:26:20,787 INFO  [Log] *************************** 
+2015-06-19 19:26:20,788 INFO  [Log] ***********TestRead*********** 
+2015-06-19 19:26:22,913 INFO  [Log] Excel sheet opened 
+2015-06-19 19:26:27,367 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 19:26:37,671 INFO  [Log] Excel sheet opened 
+2015-06-19 19:26:55,263 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 19:27:00,136 INFO  [Log] Excel sheet opened 
+2015-06-19 19:29:09,072 INFO  [Log] *************************** 
+2015-06-19 19:29:09,073 INFO  [Log] ***********TestRead*********** 
+2015-06-19 19:29:11,029 INFO  [Log] Excel sheet opened 
+2015-06-19 19:29:15,437 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 19:29:25,029 INFO  [Log] Excel sheet opened 
+2015-06-19 19:29:41,616 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 19:29:48,606 INFO  [Log] Excel sheet opened 
+2015-06-19 19:30:46,279 INFO  [Log] *************************** 
+2015-06-19 19:30:46,281 INFO  [Log] ***********TestRead*********** 
+2015-06-19 19:30:48,393 INFO  [Log] Excel sheet opened 
+2015-06-19 19:30:52,824 INFO  [Log] start the webdriver :CHROME 
+2015-06-19 19:31:02,563 INFO  [Log] Excel sheet opened 
+2015-06-19 19:31:18,141 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-19 19:31:23,475 INFO  [Log] Excel sheet opened 
+2015-06-22 17:48:27,727 INFO  [Log] *************************** 
+2015-06-22 17:48:27,727 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-22 17:48:32,710 INFO  [Log] start the webdriver :CHROME 
+2015-06-22 17:48:44,386 ERROR [Log]  Method takeScreenshot | Exception occured while capturing ScreenShot : chrome not reachable
+  (Session info: chrome=43.0.2357.124)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.3 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.02 seconds
+Build info: version: '2.46.0', revision: '87c69e2', time: '2015-06-04 16:16:47'
+System info: host: 'Marisol', ip: '192.168.77.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_60'
+Session ID: 75673a1fa986eddd659404abbc49c47d
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\Sol\AppData\Local\Temp\scoped_dir6316_7466}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=43.0.2357.124, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}] 
+2015-06-22 17:48:44,442 INFO  [Log] *************************** 
+2015-06-22 17:48:44,442 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-22 17:49:18,971 INFO  [Log] *************************** 
+2015-06-22 17:49:18,975 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-22 17:49:22,208 INFO  [Log] start the webdriver :CHROME 
+2015-06-22 17:49:31,562 INFO  [Log] *************************** 
+2015-06-22 17:49:31,562 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-22 17:49:44,914 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-22 17:49:52,551 INFO  [Log] Termino la ejecucion del test 
+2015-06-22 17:49:52,551 INFO  [Log] ********************************** 
+2015-06-22 17:49:52,551 INFO  [Log] ********************VerifyThatClickButtonGoogle************* 
+2015-06-22 17:49:52,551 INFO  [Log] *******end test case*************** 
+2015-06-22 17:50:28,084 INFO  [Log] *************************** 
+2015-06-22 17:50:28,084 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-22 17:50:31,303 INFO  [Log] start the webdriver :CHROME 
+2015-06-22 17:50:40,547 INFO  [Log] *************************** 
+2015-06-22 17:50:40,548 INFO  [Log] ***********VerifyThatClickButtonGoogle*********** 
+2015-06-22 17:50:51,133 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-22 17:50:55,773 INFO  [Log] Termino la ejecucion del test 
+2015-06-22 17:50:55,773 INFO  [Log] ********************************** 
+2015-06-22 17:50:55,773 INFO  [Log] ********************VerifyThatClickButtonGoogle************* 
+2015-06-22 17:50:55,773 INFO  [Log] *******end test case*************** 
+2015-06-22 17:53:45,119 INFO  [Log] *************************** 
+2015-06-22 17:53:45,119 INFO  [Log] ***********TestRead*********** 
+2015-06-22 17:53:46,767 INFO  [Log] Excel sheet opened 
+2015-06-22 17:53:50,058 INFO  [Log] start the webdriver :CHROME 
+2015-06-22 17:53:58,118 INFO  [Log] Excel sheet opened 
+2015-06-22 17:54:08,503 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-22 17:54:13,864 INFO  [Log] Excel sheet opened 
+2015-06-22 17:54:55,458 INFO  [Log] *************************** 
+2015-06-22 17:54:55,458 INFO  [Log] ***********TestRead*********** 
+2015-06-22 17:54:57,126 INFO  [Log] Excel sheet opened 
+2015-06-22 17:55:00,505 INFO  [Log] start the webdriver :CHROME 
+2015-06-22 17:55:08,542 INFO  [Log] Excel sheet opened 
+2015-06-22 17:55:19,143 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-22 17:55:23,604 INFO  [Log] Excel sheet opened 
+2015-06-22 17:56:07,421 INFO  [Log] *************************** 
+2015-06-22 17:56:07,425 INFO  [Log] ***********TestRead*********** 
+2015-06-22 17:56:09,053 INFO  [Log] Excel sheet opened 
+2015-06-22 17:56:12,297 INFO  [Log] start the webdriver :CHROME 
+2015-06-22 17:56:20,439 INFO  [Log] Excel sheet opened 
+2015-06-22 17:56:30,829 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-22 17:56:35,013 INFO  [Log] Excel sheet opened 
+2015-06-22 18:01:08,346 INFO  [Log] *************************** 
+2015-06-22 18:01:08,346 INFO  [Log] ***********TestRead*********** 
+2015-06-22 18:01:09,974 INFO  [Log] Excel sheet opened 
+2015-06-22 18:01:13,425 INFO  [Log] start the webdriver :CHROME 
+2015-06-22 18:01:21,554 INFO  [Log] Excel sheet opened 
+2015-06-22 18:01:32,065 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-22 18:01:37,429 INFO  [Log] Excel sheet opened 
+2015-06-22 18:03:25,961 INFO  [Log] *************************** 
+2015-06-22 18:03:25,965 INFO  [Log] ***********TestRead*********** 
+2015-06-22 18:03:27,619 INFO  [Log] Excel sheet opened 
+2015-06-22 18:03:30,394 INFO  [Log] start the webdriver :CHROME 
+2015-06-22 18:03:38,547 INFO  [Log] Excel sheet opened 
+2015-06-22 18:03:49,756 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-22 18:03:54,588 INFO  [Log] Excel sheet opened 
+2015-06-22 18:09:37,795 INFO  [Log] *************************** 
+2015-06-22 18:09:37,799 INFO  [Log] ***********TestRead*********** 
+2015-06-22 18:09:39,455 INFO  [Log] Excel sheet opened 
+2015-06-22 18:09:42,693 INFO  [Log] start the webdriver :CHROME 
+2015-06-22 18:09:56,976 INFO  [Log] Excel sheet opened 
+2015-06-22 18:10:08,539 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-22 18:10:13,327 INFO  [Log] Excel sheet opened 
+2015-06-22 18:13:25,858 INFO  [Log] *************************** 
+2015-06-22 18:13:25,858 INFO  [Log] ***********TestRead*********** 
+2015-06-22 18:13:27,522 INFO  [Log] Excel sheet opened 
+2015-06-22 18:13:30,259 INFO  [Log] start the webdriver :CHROME 
+2015-06-22 18:13:39,204 INFO  [Log] Excel sheet opened 
+2015-06-22 18:13:49,124 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-22 18:13:53,745 INFO  [Log] Excel sheet opened 
+2015-06-22 18:33:01,274 INFO  [Log] *************************** 
+2015-06-22 18:33:01,274 INFO  [Log] ***********TestRead*********** 
+2015-06-22 18:33:02,946 INFO  [Log] Excel sheet opened 
+2015-06-22 18:33:06,558 INFO  [Log] start the webdriver :CHROME 
+2015-06-22 18:33:19,564 INFO  [Log] Excel sheet opened 
+2015-06-22 18:33:32,483 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-22 18:33:38,843 INFO  [Log] Excel sheet opened 
+2015-06-24 13:14:28,240 INFO  [Log] *************************** 
+2015-06-24 13:14:28,241 INFO  [Log] ***********TestRead*********** 
+2015-06-24 13:14:30,201 INFO  [Log] Excel sheet opened 
+2015-06-24 13:14:40,259 INFO  [Log] start the webdriver :CHROME 
+2015-06-24 13:14:52,918 INFO  [Log] Excel sheet opened 
+2015-06-24 13:15:08,160 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-24 13:15:15,962 INFO  [Log] Excel sheet opened 
+2015-06-24 13:27:18,536 INFO  [Log] *************************** 
+2015-06-24 13:27:18,537 INFO  [Log] ***********TestRead*********** 
+2015-06-24 13:27:20,248 INFO  [Log] Excel sheet opened 
+2015-06-24 13:27:23,793 INFO  [Log] start the webdriver :CHROME 
+2015-06-24 13:27:34,927 INFO  [Log] Excel sheet opened 
+2015-06-24 13:27:46,709 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-24 13:27:52,152 INFO  [Log] Excel sheet opened 
+2015-06-24 13:40:55,715 INFO  [Log] *************************** 
+2015-06-24 13:40:55,716 INFO  [Log] ***********TestRead*********** 
+2015-06-24 13:40:57,469 INFO  [Log] Excel sheet opened 
+2015-06-24 13:41:08,608 INFO  [Log] start the webdriver :CHROME 
+2015-06-24 13:41:42,545 INFO  [Log] Excel sheet opened 
+2015-06-24 13:42:28,980 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-24 13:42:37,903 INFO  [Log] Excel sheet opened 
+2015-06-24 13:44:08,763 INFO  [Log] *************************** 
+2015-06-24 13:44:08,765 INFO  [Log] ***********TestRead*********** 
+2015-06-24 13:44:10,499 INFO  [Log] Excel sheet opened 
+2015-06-24 13:44:19,703 INFO  [Log] start the webdriver :CHROME 
+2015-06-24 13:44:42,286 INFO  [Log] Excel sheet opened 
+2015-06-24 13:44:57,317 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-24 13:45:03,353 INFO  [Log] Excel sheet opened 
+2015-06-24 13:47:28,905 INFO  [Log] *************************** 
+2015-06-24 13:47:28,907 INFO  [Log] ***********TestRead*********** 
+2015-06-24 13:47:30,612 INFO  [Log] Excel sheet opened 
+2015-06-24 13:47:34,978 INFO  [Log] start the webdriver :CHROME 
+2015-06-24 13:47:47,228 INFO  [Log] Excel sheet opened 
+2015-06-24 13:48:04,814 INFO  [Log] start the webdriver :MOZILLA 
+2015-06-24 13:48:09,750 INFO  [Log] Excel sheet opened 
+2015-07-10 18:02:51,249 INFO  [Log] *************************** 
+2015-07-10 18:02:51,280 INFO  [Log] ***********TestRead*********** 
+2015-07-10 18:02:53,008 INFO  [Log] Excel sheet opened 
+2015-07-10 18:04:25,261 INFO  [Log] *************************** 
+2015-07-10 18:04:25,261 INFO  [Log] ***********TestRead*********** 
+2015-07-10 18:04:27,011 INFO  [Log] Excel sheet opened 
+2015-07-10 18:05:18,463 INFO  [Log] *************************** 
+2015-07-10 18:05:18,463 INFO  [Log] ***********TestRead*********** 
+2015-07-10 18:05:20,213 INFO  [Log] Excel sheet opened 
+2015-08-09 09:37:08,439 INFO  [Log] *************************** 
+2015-08-09 09:37:08,470 INFO  [Log] ***********TestRead*********** 
+2015-08-09 09:37:12,196 INFO  [Log] Excel sheet opened 
